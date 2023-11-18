@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @novicecoder10
-- 👀 I’m interested in blockchain, python
-- 🌱 I’m currently learning python, solidity
-- 💞️ I’m looking to collaborate on blockchain
+- 👀 I’m interested in python, c, c++
+- 🌱 I’m currently learning python, c, c++
 - 📫 How to reach me gautamkarat@gmail.com
 
 [![@gautamkarat's Holopin board](https://holopin.me/gautamkarat)](https://holopin.io/@gautamkarat)
